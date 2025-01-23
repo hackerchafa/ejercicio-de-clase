@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba6\bin\Debug\net9.0\prueba6.exe
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba6\bin\Debug\net9.0\prueba6.deps.json
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba6\bin\Debug\net9.0\prueba6.runtimeconfig.json
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba6\bin\Debug\net9.0\prueba6.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba6\bin\Debug\net9.0\prueba6.pdb
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba6\obj\Debug\net9.0\prueba6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba6\obj\Debug\net9.0\prueba6.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba6\obj\Debug\net9.0\prueba6.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba6\obj\Debug\net9.0\prueba6.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba6\obj\Debug\net9.0\prueba6.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba6\obj\Debug\net9.0\refint\prueba6.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba6\obj\Debug\net9.0\prueba6.pdb
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba6\obj\Debug\net9.0\prueba6.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba6\obj\Debug\net9.0\ref\prueba6.dll
